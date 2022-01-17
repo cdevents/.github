@@ -4,6 +4,8 @@ This is the home of the events protocol CDEvents and its related tools
 
 CDEvents is currently governed by the [Special Interest Group Events](https://github.com/cdfoundation/sig-events) within the [CD Foundation](https://cd.foundation/)
 
+If you have a general issue for the cdevents organization it could be placed in the [spec repo](https://github.com/cdevents/spec)
+
 <!--
 
 **Here are some ideas to get you started:**
