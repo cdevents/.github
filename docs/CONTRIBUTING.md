@@ -18,7 +18,7 @@ CDEvents welcomes all of contributions! We encourage you to engage with the
 
 Resources for contributors:
 
-* [Project Roadmap](https://github.com/cdevents/spec/blob/mainroadmap.md)
+* [Project Roadmap](https://github.com/cdevents/spec/blob/main/roadmap.md)
 * [Specification v0.1 Roadmap](https://github.com/orgs/cdevents/projects/1/views/1)
 * [GitHub Issues](https://github.com/cdevents/spec/issues)
 * [Communication Channels](https://github.com/cdevents/spec/blob/main/README.md#community)
